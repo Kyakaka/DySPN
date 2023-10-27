@@ -1,6 +1,8 @@
 # DySPN
 Implement of "Dynamic Spatial Propagation Network for Depth Completion"
 
+Paper:[IEEE-TCSVT](https://ieeexplore.ieee.org/document/10284921) [Early Version](https://arxiv.org/pdf/2202.09769.pdf)
+
 We will improve our repo as soon as possible.
 
 # Dependence
