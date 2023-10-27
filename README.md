@@ -1,8 +1,11 @@
 # DySPN
 Implement of "Dynamic Spatial Propagation Network for Depth Completion"
 
+We will improve our repo as soon as possible.
+
 # Dependence
 torch~=2.0.1
+
 lightning~=2.0.1
 
 # Training
