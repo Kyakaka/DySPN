@@ -8,7 +8,7 @@ lightning~=2.0.1
 # Training
 python3 lit_kitti_s.py
 
-# 
+# Acknowledgement
 Thanks the authors for their awesome works:
 [NLSPN](https://github.com/zzangjinsun/NLSPN_ECCV20)
 [CFormer](https://github.com/youmi-zym/CompletionFormer)
