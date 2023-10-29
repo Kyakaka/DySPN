@@ -18,7 +18,7 @@ Thanks the authors for their awesome works:
 [NLSPN](https://github.com/zzangjinsun/NLSPN_ECCV20)
 [CFormer](https://github.com/youmi-zym/CompletionFormer)
 
-# Cite
+# Citation
 If you find our work useful in your research, please consider citing our paper:
 ```
 @ARTICLE{lin2023dyspn,
